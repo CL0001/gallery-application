@@ -1,5 +1,0 @@
-module gallery-application
-typeinfo appgallery-application.qmltypes
-prefer :/qt/qml/gallery-application/
-Main 1.0 Main.qml
-
